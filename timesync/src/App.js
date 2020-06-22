@@ -10,10 +10,21 @@ function App() {
             </Header>
 
             <div id="add_members">
-                <h2>Add Members</h2>
-                <p>Name</p>
+                <h1>TimeSync</h1>
+                <i type="subtitle">Find meeting times that work for everyone, around the clock, around the globe</i>
+
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <h2>Add Member</h2>
+                <br></br>
+                <h3>Name</h3>
                 <input type="text" id="name"></input>
-                <p>City</p>
+                <h3>City</h3>
                 <input type="text" id="city"></input>
                 <br></br>
                 <p></p>

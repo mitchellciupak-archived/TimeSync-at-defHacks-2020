@@ -1,18 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
-
 html, body {
 	margin: 0;
 	height: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat';
 }
 
-
+#subtitle {
+    font-size: 5px;
+    margin-bottom: 25px;
+}
 #add_members {
-	padding: 0;
-	height: 1400px;
+	padding-top: 25px;
+    padding-bottom: 50px;
 	text-align: center;
-	font-size: 30px;
-	background-color: #21b1fd;
+    font-size: 30px;
+    color: #ffe;
+    background-image: url("https://i.pinimg.com/originals/3e/54/0a/3e540a3a0faf7600c799f3d917d42fb9.jpg");
+    background-size: 100%;
+    background-position-y: 750px;
+    max-height: fit-content;
+}
 
 #add_members p{
 	margin: 10px;
@@ -25,10 +31,11 @@ html, body {
 
 #add_members input {
 	width: 30%;
-	font-size: 30px;
+    font-size: 30px;
+    color: #ffe;
 }
 
 #add_members button {
-	height: 3%;
-	width: 7%;
+    display: flex-row;
+    margin: 0px 10px;
 }
