@@ -1,5 +1,5 @@
-# defHacks-ProjectName
+# defHacks-TimeSync
 By Mitchell Ciupak, Terry Feng, Jason Su, Nishal Najeeb, Roan Numa
 
 ## Resources
-[Brainstorming](https://docs.google.com/document/d/1McyiA7V1hJDm05mfCcLR2imxf6tBSZuqwVMVEN9aF_I/edit?usp=sharing)
+[Planning](https://drive.google.com/drive/folders/1HN6PK_WO0hwR09K-uzy4wIIc1GAX9k6A?usp=sharing)
