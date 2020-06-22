@@ -6,6 +6,7 @@ import './App.css';
 
 function App() {
   return (
+
     <div id = "add_members">
       <h1>Add Members</h1>
       <p>Name</p>
@@ -17,7 +18,6 @@ function App() {
       <button type = "button" id = "add" >ADD</button>
 	  	<button type = "button" id = "delete">DELETE</button>
 		  <button type = "button" id = "finish">FINISH</button>
-    </div>
   );
 }
 
